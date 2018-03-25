@@ -1,0 +1,12 @@
+ntellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+
+log/
+target/
+project/target
